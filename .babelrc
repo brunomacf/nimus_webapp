@@ -1,0 +1,9 @@
+{
+    "presets": ["flow","env","react"],
+    "plugins": [
+        "autobind-class-methods",
+        "transform-class-properties",
+        "transform-export-extensions",
+        "add-module-exports"
+    ]
+}
